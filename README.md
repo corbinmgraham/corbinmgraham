@@ -8,16 +8,18 @@ Currently, I'm learning about language and image processing using machine learni
 
 Visit my website [Corbin.ML](https://corbinmgraham.github.io/) to see more about what I've been working on.
 
-## Technology
+### Favorite Technologies
 
-### Technologies I'm Using
+[![Tech](https://skillicons.dev/icons?i=py,cpp,js,cs,c,tensorflow,pytorch&theme=dark)](https://skillicons.dev)
 
-These are technologies I'm currently using to develop projects.
+<!--
+## Secret Section
 
-[![Tech](https://skillicons.dev/icons?i=py,gcp,tensorflow,pytorch,js,cs,cpp,c,github&theme=dark)](https://skillicons.dev)
+Here's just a little more about me that was a lot too much for my page!
 
 ### Technologies I've Used
 
-These are technologies I've used to develop projects in the past.
+These are a few of the technologies I've used to develop projects in the past.
 
 [![Tech](https://skillicons.dev/icons?i=java,aws,gitlab,git,css,html,swift,unity,r,eclipse,cmake,django,md,mysql,mongodb,php,jquery,nodejs,react,androidstudio,arduino,figma&theme=dark)](https://skillicons.dev)
+-->
