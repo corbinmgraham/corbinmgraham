@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**corbinmgraham/corbinmgraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> My name is **Corbin Graham** and I am a **Junior studying Computer Science at Iowa State University**.
+I enjoy learning new skills and finding ways to apply them.
+Currently, I'm learning about language and image processing using machine learning.
 
-Here are some ideas to get you started:
+> 🔭 Projects I'm currently developing: [Text.](https://github.com/corbinmgraham/text), [DiMG](https://github.com/corbinmgraham/DiMG).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my website [Corbin.ML](https://corbinmgraham.github.io/) to see more about what I've been working on.
+
+## Technology
+
+### Technologies I'm Using
+
+These are technologies I'm currently using to develop projects.
+
+[![Tech](https://skillicons.dev/icons?i=py,gcp,tensorflow,pytorch,js,cs,cpp,c,github&theme=dark)](https://skillicons.dev)
+
+### Technologies I've Used
+
+These are technologies I've used to develop projects in the past.
+
+[![Tech](https://skillicons.dev/icons?i=java,aws,gitlab,git,css,html,swift,unity,r,eclipse,cmake,django,md,mysql,mongodb,php,jquery,nodejs,react,androidstudio,arduino,figma&theme=dark)](https://skillicons.dev)
