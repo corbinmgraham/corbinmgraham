@@ -1,3 +1,14 @@
+[![Profile Image](github-logo.png)]()
+
+[Visit my website](https://corbinmgraham.github.io/) to see these technologies in action:
+
+[![Tech](https://skillicons.dev/icons?i=py,tensorflow,pytorch,cpp,cs,c,js,java,aws,r,mysql,react,androidstudio,figma&theme=dark)](https://skillicons.dev)
+
+<!--
+## Secret Section
+
+Here's just a little more about me that was a lot too much for my page!
+
 # Hello 👋
 
 > My name is **Corbin Graham** and I am a **Junior studying Computer Science at Iowa State University**.
@@ -8,14 +19,9 @@ Currently, I'm learning about language and image processing using machine learni
 
 Visit my website [Corbin.ML](https://corbinmgraham.github.io/) to see more about what I've been working on.
 
-### Favorite Technologies
+### Technologies I'm Using
 
-[![Tech](https://skillicons.dev/icons?i=py,cpp,cs,c,js,tensorflow,pytorch&theme=dark)](https://skillicons.dev)
-
-<!--
-## Secret Section
-
-Here's just a little more about me that was a lot too much for my page!
+[![Tech](https://skillicons.dev/icons?i=py,tensorflow,pytorch,cpp,cs,c,js,java&theme=dark)](https://skillicons.dev)
 
 ### Technologies I've Used
 
