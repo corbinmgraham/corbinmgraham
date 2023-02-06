@@ -10,7 +10,7 @@ Visit my website [Corbin.ML](https://corbinmgraham.github.io/) to see more about
 
 ### Favorite Technologies
 
-[![Tech](https://skillicons.dev/icons?i=py,cpp,js,cs,c,tensorflow,pytorch&theme=dark)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=py,cpp,cs,c,js,tensorflow,pytorch&theme=dark)](https://skillicons.dev)
 
 <!--
 ## Secret Section
